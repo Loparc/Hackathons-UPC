@@ -1,11 +1,11 @@
 # Hackathons-UPC
 
-## Hack
+## BitsxLaMarató de TV3 2021 Hackathon
 Project: https://devpost.com/software/jog-c-t-estimo-m-estimo <br>
 Code: fantasy.cc <br>
 Role on this project: Co-creator <br> <br>
 Project made for BitsxlaMarató 2021 where we had to develop a project that could help people when feeling down. <br>
-In this case we decided to develop a console (linux terminal) game made in C++. <br>
+We decided to develop a console (linux terminal) game made in C++. <br>
 
 
 ## HackUPC 2022
